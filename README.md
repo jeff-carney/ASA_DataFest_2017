@@ -1,1 +1,3 @@
 # ASA_DataFest_2017
+
+This repository contains a script written to build a K-Nearest Neighbors model in order to predict whether or not an Expedia user would book a package deal on their site. This was built as part of the 2017 ASA DataFest hosted at UCLA. In addition to the script their is a .pdf file of our presentation made as part of the competition. Our team was one of the finalists and won the Judges' Choice Award.
